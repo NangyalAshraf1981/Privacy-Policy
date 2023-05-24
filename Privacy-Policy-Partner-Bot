@@ -1,0 +1,26 @@
+
+Privacy Policy for the Partner Bot
+
+At Partner Bot, we are committed to ensuring the privacy and security of our users' data. This privacy policy outlines how we handle and protect the data collected by the bot during its operation within Discord.
+
+Data Collection:
+
+Message Data: The Partner Bot collects and temporarily stores message data to facilitate its functionality. This includes the content of messages, including any embedded content or attachments. However, it's important to note that this data is only stored temporarily for a period of 7 days and is automatically deleted thereafter.
+Data Usage:
+
+Bot Functionality: The collected message data is used solely for the purpose of providing the intended functionality of the Partner Bot. This includes responding to user commands, sending appropriate responses, and storing relevant message content for the /bump command.
+Data Security:
+
+Data Protection: We employ robust security measures to safeguard the collected message data against unauthorized access, alteration, or disclosure. This includes utilizing encryption protocols and restricting access to the data only to authorized personnel involved in the operation and maintenance of the bot.
+Data Sharing:
+
+Limited Data Sharing: We do not share the collected message data with any third parties. The data remains strictly within the confines of Discord and is not transmitted or transferred to external systems.
+Data Deletion:
+
+Retention Period: As mentioned earlier, the message data collected by the Partner Bot is stored for a maximum period of 7 days. After this period, the data is automatically and permanently deleted, ensuring that no personally identifiable or sensitive information is retained.
+Compliance:
+
+Discord Terms of Service: The operation and usage of the Partner Bot comply with Discord's Terms of Service and guidelines. We adhere to Discord's policies and ensure that the bot's functionality and data handling practices align with their requirements.
+Please note that by using the Partner Bot, users implicitly agree to the terms outlined in this privacy policy.
+
+If you have any concerns or questions regarding the privacy of your data while using the Partner Bot, please contact us for further clarification or assistance. We are dedicated to addressing any privacy-related concerns promptly and transparently.
